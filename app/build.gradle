@@ -79,13 +79,11 @@ android {
                 Properties releaseProps = new Properties()
                 releaseProps.load(new FileInputStream(rootProject.file('release.properties')))
 
-                Properties ksProps = new Properties()
-                ksProps.load(new FileInputStream(new File((String) releaseProps['signing.config'])))
-                storeFile file(ksProps['keystore'])
-                keyAlias ksProps['alias']
-                storePassword ksProps['storePass']
-                keyPassword ksProps['pass']
-                storeType ksProps['storeType']
+                storeFile file(releaseProps['keystore'])
+                keyAlias releaseProps['alias']
+                storePassword releaseProps['storePass']
+                keyPassword releaseProps['pass']
+                storeType releaseProps['storeType']
             }
 
             return void
