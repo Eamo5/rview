@@ -27,3 +27,6 @@ attachments/auth.properties
 
 # Thumbnail db
 .DS_Store
+
+# Keystore
+**.keystore
