@@ -1,16 +1,9 @@
 Rview
 =====
 
-### Description [![Build Status](https://github.com/jruesga/rview/workflows/Android%20CI%20Workflow/badge.svg)](https://github.com/jruesga/rview/actions) [![GitHub release](https://img.shields.io/github/release/jruesga/rview.svg)](https://github.com/jruesga/rview/releases/latest) [![Apache 2.0](https://img.shields.io/github/license/jruesga/rview.svg)](http://www.apache.org/licenses/LICENSE-2.0)
+### Description [![Build Status](https://github.com/Eamo5/rview/workflows/Android%20CI%20Workflow/badge.svg)](https://github.com/Eamo5/rview/actions) [![GitHub release](https://img.shields.io/github/release/Eamo5/rview.svg)](https://github.com/Eamo5/rview/releases/latest) [![Apache 2.0](https://img.shields.io/github/license/Eamo5/rview.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 
 A Gerrit client application  for Android
-
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
-     alt="Get it on F-Droid"
-     height="80">](https://f-droid.org/packages/com.ruesga.rview/)
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
-     alt="Get it on Google Play"
-     height="80">](https://play.google.com/store/apps/details?id=com.ruesga.rview)
 
 ### Features
 
@@ -29,7 +22,7 @@ Push notifications requires [cloud-notifications](https://gerrit.googlesource.co
 
 ### Contribute
 
-Visit [Github](https://github.com/jruesga/rview) to get the source, request feature and/or submit patches.
+Visit [Github](https://github.com/Eamo5/rview) to get the source, request feature and/or submit patches.
 
 
 ### Licenses
