@@ -23,8 +23,8 @@ dependencies {
     api "androidx.cardview:cardview:${libraries.androidx_cardview}"
     api "androidx.legacy:legacy-support-v4:${libraries.androidx_legacy}"
     api "com.google.android.material:material:${libraries.material}"
-    api "io.reactivex.rxjava2:rxjava:${libraries.rxjava}"
-    api "io.reactivex.rxjava2:rxandroid:${libraries.rxandroid}"
+    api "io.reactivex.rxjava3:rxjava:${libraries.rxjava}"
+    api "io.reactivex.rxjava3:rxandroid:${libraries.rxandroid}"
     api "com.github.jruesga:rxloader:${libraries.rxloader2}"
     api "com.github.castorflex.smoothprogressbar:library:${libraries.smoothprogressbar}"
 }

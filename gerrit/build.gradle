@@ -30,8 +30,8 @@ dependencies {
     api "com.squareup.okhttp3:logging-interceptor:${libraries.okhttp3}"
     api "com.squareup.okio:okio:${libraries.okio}"
     api "com.github.jruesga:okhttp-digest:${libraries.okhttp_digest}@aar"
-    api "io.reactivex.rxjava2:rxjava:${libraries.rxjava}"
-    api "io.reactivex.rxjava2:rxandroid:${libraries.rxandroid}"
+    api "io.reactivex.rxjava3:rxjava:${libraries.rxjava}"
+    api "io.reactivex.rxjava3:rxandroid:${libraries.rxandroid}"
     api "com.github.jruesga:rxloader:${libraries.rxloader2}"
     api "org.antlr:antlr-runtime:${libraries.antlrv3}"
 
